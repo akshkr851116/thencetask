@@ -1,0 +1,12 @@
+.navlinks a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 5px; 
+}
+.navlinks a:active{
+    color: black;
+    background-color: white;
+}
+
+
